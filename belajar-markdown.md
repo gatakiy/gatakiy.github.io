@@ -1,0 +1,1 @@
+**Markdown** termasuk (Lightweigh Markup Language) merupakan formating text untuk Web, seperti HTML (Hyper Text Markup Language), jadi Markdown adalah formating text yang lebih ringan dari HTML.
